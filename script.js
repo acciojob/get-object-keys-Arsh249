@@ -2,6 +2,6 @@ function getKeys() {
 	const student = {
 	name : Arsh;
 }
-	return (Object.keys(student));
+	console.log(Object.keys(student));
 }
-getKeys()
+
