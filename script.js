@@ -4,3 +4,4 @@ function getKeys() {
 }
 	return (Object.keys(student));
 }
+getKeys()
