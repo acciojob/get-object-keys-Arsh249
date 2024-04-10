@@ -1,1 +1,6 @@
-//your JS code here. If required.
+function getKeys() {
+	const student = {
+	name : Arsh;
+}
+	return (Object.keys(student));
+}
